@@ -1,4 +1,6 @@
 ## Hi there 👋
+I m I3ro
+People call me BRO
 
 <!--
 **I3ro/I3ro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
